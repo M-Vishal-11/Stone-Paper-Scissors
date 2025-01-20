@@ -1,0 +1,32 @@
+header{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.title{
+    text-align: center;
+    color: hsl(331, 95%, 15%);
+}
+
+#p1{
+    position: absolute;
+    left: 25%;
+}
+
+#p2{
+    position: absolute;
+    right: 25%;
+}
+
+.ans{
+    border:2px dotted hsl(216, 86%, 72%);
+    text-align: center;
+}
+
+.vertical{
+    border-left: 1px solid gray;
+    position: absolute;
+    right: 50%;
+    top: 25%;
+    height: 500px;
+}
